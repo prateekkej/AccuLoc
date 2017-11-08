@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "847934097741",
+    "firebase_url": "https://acculoc-3e36b.firebaseio.com",
+    "project_id": "acculoc-3e36b",
+    "storage_bucket": "acculoc-3e36b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847934097741:android:a49c027d7318aff4",
+        "android_client_info": {
+          "package_name": "com.acculoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847934097741-2eo3qp0p94pkbk6nv1aneb12t7e8en22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acculoc",
+            "certificate_hash": "5009efb2eb2c1b2b724dd9eacfb380897cc4a575"
+          }
+        },
+        {
+          "client_id": "847934097741-fo1cgdhip6q3g910pfup3uvk0uhtvv5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2c9b82e3hx3vieUAuD-kRN7qlWolYxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847934097741-fo1cgdhip6q3g910pfup3uvk0uhtvv5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
